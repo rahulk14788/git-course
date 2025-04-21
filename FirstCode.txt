@@ -5,3 +5,4 @@ add values
 process the data
 Submit data to Database
 Added a new Branch
+Use Git pull command
